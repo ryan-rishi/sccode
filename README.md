@@ -13,5 +13,6 @@ These are some code chunks and simple programs that you can run with SuperCollid
 If you have SuperCollider, open the \*.scd file and:
 - ctrl (Apple) + b to boot server
 - ctrl (Apple) + enter to run code
+- ctrl (Apple) + . to stop all sounds
 
 Feel free to contact me with any questions.
