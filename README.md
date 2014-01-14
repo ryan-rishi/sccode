@@ -1,12 +1,14 @@
 sccode
 ======
 
-Code samples and simple programs that work in SuperCollider
+Code samples and simple programs that work in SuperCollider IDE.
 
-I'm taking MUSC 115, Intro to Sound Design, this quarter (fall 2013).
+I'm taking MUSC 115, Intro to Experimental Sound Design, this quarter (Fall 2013).
 We are using a program called SuperCollider to make sounds.
 
 Check out my professor's code here: sccode.org/bruno
+
+Listen to my recordings here: https://soundcloud.com/ryan-rishi-scu
 
 These are some code chunks and simple programs that you can run with SuperCollider.
 
