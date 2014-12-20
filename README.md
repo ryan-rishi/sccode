@@ -1,4 +1,4 @@
-sccode
+musc115
 ======
 
 Code samples and simple programs that work in SuperCollider IDE.
